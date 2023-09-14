@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarket.Booking.Api/1.0.0": {
+        "runtime": {
+          "Tarket.Booking.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarket.Booking.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

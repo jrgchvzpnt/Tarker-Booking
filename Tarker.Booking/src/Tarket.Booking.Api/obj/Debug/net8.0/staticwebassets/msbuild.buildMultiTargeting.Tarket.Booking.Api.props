@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tarket.Booking.Api.props" />
+</Project>
