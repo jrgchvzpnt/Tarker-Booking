@@ -1,0 +1,101 @@
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\appsettings.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.exe
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.deps.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.runtimeconfig.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.pdb
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.AssemblyInfoInputs.cache
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.AssemblyInfo.cs
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.Tarket.Booking.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Tarket.Booking.Api.props
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tarket.Booking.Api.props
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tarket.Booking.Api.props
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\scopedcss\bundle\Tarket.Booking.Api.styles.css
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\refint\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.pdb
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.genruntimeconfig.cache
+C:\Proyectos\Tarker Booking\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\ref\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\appsettings.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.exe
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.deps.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.runtimeconfig.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarket.Booking.Api.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.AssemblyInfoInputs.cache
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.AssemblyInfo.cs
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.Tarket.Booking.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Tarket.Booking.Api.props
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tarket.Booking.Api.props
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tarket.Booking.Api.props
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\scopedcss\bundle\Tarket.Booking.Api.styles.css
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\refint\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.genruntimeconfig.cache
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\ref\Tarket.Booking.Api.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.csproj.CopyComplete
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Persistence.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Persistence.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.csproj.AssemblyReference.cache
