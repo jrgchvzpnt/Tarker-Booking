@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "wxHcC+MddWq2rBw/JBcR7ae4v4VuUK4z6igTnqU7mMh4hnDFzz4hF8rdwH9QJieWoxKxCD+gR6zVegjt3pqXxQ==",
+  "dgSpecHash": "N57/lwpodORQ/dgQnrI+vuzdz1ZdN/JctpAUDyVBOLYexnGKHuhiw/roqUiJpmh4o8lYpMyETo+Pj2dO9IX1qw==",
   "success": true,
   "projectFilePath": "C:\\Proyectos\\Tarker.Booking\\src\\Tarket.Booking.Api\\Tarket.Booking.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jorge.chavez\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

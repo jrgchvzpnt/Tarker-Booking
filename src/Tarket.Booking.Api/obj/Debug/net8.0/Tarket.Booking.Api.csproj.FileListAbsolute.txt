@@ -99,3 +99,8 @@ C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booki
 C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Application.pdb
 C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
 C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\obj\Debug\net8.0\Tarket.Booking.Api.csproj.AssemblyReference.cache
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.dll
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.pdb
+C:\Proyectos\Tarker.Booking\src\Tarket.Booking.Api\bin\Debug\net8.0\AutoMapper.dll

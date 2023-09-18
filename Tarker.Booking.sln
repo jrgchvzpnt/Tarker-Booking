@@ -13,17 +13,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{D02772C4-D30B-4C25-9B13-CDD442E4F915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarket.Booking.Api", "src\Tarket.Booking.Api\Tarket.Booking.Api.csproj", "{943FA1CF-CEEF-4AE4-9CC7-EBC16C7CCC67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarket.Booking.Api", "src\Tarket.Booking.Api\Tarket.Booking.Api.csproj", "{943FA1CF-CEEF-4AE4-9CC7-EBC16C7CCC67}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1B5A929F-E442-42D1-A1F4-8B4245E15D35} = {1B5A929F-E442-42D1-A1F4-8B4245E15D35}
+		{92BFBC7B-B4B9-4404-B63D-5CFD5E7D7BAA} = {92BFBC7B-B4B9-4404-B63D-5CFD5E7D7BAA}
+		{A953B3FE-EF68-4B66-84C5-D33B7CCB744F} = {A953B3FE-EF68-4B66-84C5-D33B7CCB744F}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Domain", "src\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj", "{04C12469-4984-4F6F-B0EA-99D4C778D03A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.Domain", "src\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj", "{04C12469-4984-4F6F-B0EA-99D4C778D03A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Application", "src\Tarker.Booking.Application\Tarker.Booking.Application.csproj", "{A953B3FE-EF68-4B66-84C5-D33B7CCB744F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.Application", "src\Tarker.Booking.Application\Tarker.Booking.Application.csproj", "{A953B3FE-EF68-4B66-84C5-D33B7CCB744F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Persistence", "src\Tarker.Booking.Persistence\Tarker.Booking.Persistence.csproj", "{3DB530DF-576D-4687-815F-D73BCB1197DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.Persistence", "src\Tarker.Booking.Persistence\Tarker.Booking.Persistence.csproj", "{3DB530DF-576D-4687-815F-D73BCB1197DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.External", "src\Tarker.Booking.External\Tarker.Booking.External.csproj", "{92BFBC7B-B4B9-4404-B63D-5CFD5E7D7BAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.External", "src\Tarker.Booking.External\Tarker.Booking.External.csproj", "{92BFBC7B-B4B9-4404-B63D-5CFD5E7D7BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Common", "src\Tarker.Booking.Common\Tarker.Booking.Common.csproj", "{1B5A929F-E442-42D1-A1F4-8B4245E15D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.Common", "src\Tarker.Booking.Common\Tarker.Booking.Common.csproj", "{1B5A929F-E442-42D1-A1F4-8B4245E15D35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

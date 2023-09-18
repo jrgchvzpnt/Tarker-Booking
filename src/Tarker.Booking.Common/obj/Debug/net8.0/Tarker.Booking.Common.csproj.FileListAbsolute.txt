@@ -20,3 +20,4 @@ C:\Proyectos\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Bo
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\refint\Tarker.Booking.Common.dll
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.pdb
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\ref\Tarker.Booking.Common.dll
+C:\Proyectos\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.AssemblyReference.cache

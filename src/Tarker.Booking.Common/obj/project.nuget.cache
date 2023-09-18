@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Dqy9VurRX9G2zDLzKvEgkrrbyzsuDDs0Dr6sWv1Z5/7ROoeprys+cSVR7Iz/QhU4+yRmnSRnevwVrg8GsdvGxg==",
+  "dgSpecHash": "ZBH3ta9TviPSMIO1vQVsC5LxrO25TFtqkNb5IAiWG7YrJF/HWASR+EqGab5K0Ku4uOPIZVB8i+/a1yIVCpHbzg==",
   "success": true,
   "projectFilePath": "C:\\Proyectos\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\jorge.chavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

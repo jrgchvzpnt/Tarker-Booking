@@ -20,3 +20,4 @@ C:\Proyectos\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\refint\Tarker.Booking.External.dll
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.pdb
 C:\Proyectos\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\ref\Tarker.Booking.External.dll
+C:\Proyectos\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.csproj.AssemblyReference.cache

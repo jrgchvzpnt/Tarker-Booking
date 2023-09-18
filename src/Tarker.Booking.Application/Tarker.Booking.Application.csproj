@@ -7,11 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DataBase\Bookings\Commands\" />
+    <Folder Include="DataBase\Bookings\Queries\" />
+    <Folder Include="DataBase\Customer\Commands\" />
+    <Folder Include="DataBase\Customer\Queries\" />
+    <Folder Include="DataBase\User\Commands\" />
+    <Folder Include="DataBase\User\Queries\" />
   </ItemGroup>
 
 </Project>
